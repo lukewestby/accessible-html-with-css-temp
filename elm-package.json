@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Drop-in replacement for tesk9/accessible-html using Html.Styled",
-    "repository": "https://github.com/tesk9/accessible-html-with-css.git",
+    "repository": "https://github.com/lukewestby/accessible-html-with-css-temp.git",
     "license": "BSD-3-Clause",
     "source-directories": [
         "src"
